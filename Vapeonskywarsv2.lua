@@ -92,7 +92,7 @@ ImageLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 ImageLabel.BackgroundTransparency = 1.000
 ImageLabel.Size = UDim2.new(1, 0, 1, 0)
 ImageLabel.Image = "rbxassetid://8745364892"
-ImageLabel.ImageTransparency = 0.300
+ImageLabel.ImageTransparency = 0
 
 UICorner_2.CornerRadius = UDim.new(0, 4)
 UICorner_2.Parent = ImageLabel
